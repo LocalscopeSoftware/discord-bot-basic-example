@@ -34,4 +34,4 @@ if(config.ACTIVATE_BOT){
 	console.log('bot started');
 }
 
-// module.exports = startBot;
+module.exports = startBot;
